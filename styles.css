@@ -1,0 +1,21 @@
+body {
+    background-color: aquamarine;
+}
+
+h1 {
+    color: rgb(207, 28, 28);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 38px;
+}
+
+img {
+    align-items: center;
+}
+
+ul {
+    color: brown;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
