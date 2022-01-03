@@ -2,18 +2,18 @@ body {
     background-color: aquamarine;
 }
 
-h1 {
+.title {
     color: rgb(207, 28, 28);
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 38px;
 }
 
-img {
+.foto {
     align-items: center;
 }
 
-ul {
+.list {
     color: brown;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
